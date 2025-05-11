@@ -44,5 +44,5 @@ Built with **Streamlit**, this app features a polished UI, real-time sentence co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/next-sentence-predictor.git
+   git clone https://github.com/RAJEEVRANJAN0001/AI-Powered-Next-Sentence-Prediction-using-Generative-Language-Models.git
    cd next-sentence-predictor
